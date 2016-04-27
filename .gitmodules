@@ -1,0 +1,3 @@
+[submodule "src/darts"]
+	path = src/darts
+	url = git@github.com:lilorox/darts.git
